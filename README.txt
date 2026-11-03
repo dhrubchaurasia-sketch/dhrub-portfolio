@@ -1,15 +1,24 @@
-DHRUB CHAURASIA — PORTFOLIO
+# Dhrub Chaurasia | Portfolio
 
-HOW TO RUN
-1. Extract the ZIP file.
-2. Open the dhrub-portfolio folder.
-3. Double-click index.html, or open the folder in VS Code and use Live Server.
+Personal portfolio showcasing my skills, projects, and experience as a Full-Stack Developer.
 
-FILES
-- index.html: portfolio content and structure
-- style.css: responsive styling
-- script.js: mobile navigation and current year
-- assets/dhrub-profile.jpg: square portrait image
-- assets/Dhrub-Chaurasia-Resume.pdf: resume download
+### Tech Stack
 
-To deploy: upload the folder to GitHub Pages, Netlify, or Render Static Site.
+HTML5 · CSS3 · JavaScript · Locomotive Scroll
+
+### Features
+
+* Responsive Design
+* Smooth Scrolling
+* Projects Showcase
+* Contact & Social Links
+
+### Live Portfolio
+
+[Visit My Portfolio](https://dhrubchaurasia-sketch.github.io/dhrub-portfolio/)
+
+### Contact
+
+* Email: [dhrubchaurasia@gmail.com](mailto:dhrubchaurasia@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/dhrub-chaurasia-53aa32323/)
+* [GitHub](https://github.com/dhrubchaurasia-sketch)
